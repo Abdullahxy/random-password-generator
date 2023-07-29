@@ -53,10 +53,6 @@ The random Password Generator follows these steps to create a random password:
 
 The random Password Generator creates random passwords, which can enhance security. However, it is essential to use strong and unique passwords for each account and service. Additionally, consider using a password manager to store and manage your passwords securely.
 
-## Contributing
-
-Contributions to the random Password Generator are welcome! If you find any bugs, have suggestions, or want to add new features, feel free to open an issue or submit a pull request.
-
 ## Credits
 
 The random Password Generator is created and maintained by [Abdullah](https://github.com/Abdullahxz). Special thanks to the Ruby community for providing a robust and versatile programming language.
