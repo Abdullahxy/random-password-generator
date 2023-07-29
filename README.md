@@ -7,7 +7,7 @@ Welcome to the Password Generator repository! This project is a Ruby script that
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/acdullahxy/random-password-generator.git
+git clone https://github.com/abdullahxy/random-password-generator.git
 cd random-password-generator
 ```
 
