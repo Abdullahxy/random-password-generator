@@ -1,14 +1,14 @@
-# Clever Password Generator
+# Password Generator
 
-Welcome to the Clever Password Generator repository! This project is a Ruby script that generates a random and secure password based on user-specified options. The generator allows you to customize the length of the password and include alphabets, numeric characters, and special characters in the generated password.
+Welcome to the Password Generator repository! This project is a Ruby script that generates a random and secure password based on user-specified options. The generator allows you to customize the length of the password and include alphabets, numeric characters, and special characters in the generated password.
 
 ## How to Use
 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/clever-password-generator.git
-cd clever-password-generator
+git clone https://github.com/your-username/random-password-generator.git
+cd random-password-generator
 ```
 
 2. Open the `password_generator.rb` file in a text editor.
@@ -37,7 +37,7 @@ ruby password_generator.rb
 
 ## How it Works
 
-The Clever Password Generator follows these steps to create a random password:
+The random Password Generator follows these steps to create a random password:
 
 1. Input Validation: The script takes user input for the desired password length and options (alphabets, numeric, special characters) for password generation.
 
@@ -51,18 +51,18 @@ The Clever Password Generator follows these steps to create a random password:
 
 ## Security Considerations
 
-The Clever Password Generator creates random passwords, which can enhance security. However, it is essential to use strong and unique passwords for each account and service. Additionally, consider using a password manager to store and manage your passwords securely.
+The random Password Generator creates random passwords, which can enhance security. However, it is essential to use strong and unique passwords for each account and service. Additionally, consider using a password manager to store and manage your passwords securely.
 
 ## Contributing
 
-Contributions to the Clever Password Generator are welcome! If you find any bugs, have suggestions, or want to add new features, feel free to open an issue or submit a pull request.
+Contributions to the random Password Generator are welcome! If you find any bugs, have suggestions, or want to add new features, feel free to open an issue or submit a pull request.
 
 ## Credits
 
-The Clever Password Generator is created and maintained by [Abdullah](https://github.com/Abdullahxz). Special thanks to the Ruby community for providing a robust and versatile programming language.
+The random Password Generator is created and maintained by [Abdullah](https://github.com/Abdullahxz). Special thanks to the Ruby community for providing a robust and versatile programming language.
 
 ---
 
-Thank you for checking out the Clever Password Generator! Create strong and secure passwords effortlessly with this script.
+Thank you for checking out the random Password Generator! Create strong and secure passwords effortlessly with this script.
 
 Happy password generating! 🛡️
